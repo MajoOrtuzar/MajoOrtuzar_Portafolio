@@ -15,7 +15,6 @@ Este portafolio está en crecimiento. ¿Me ayudas a llenarlo de nuevos proyectos
 
 * HTML
 * CSS
-* JavaScript
 * Figma
 
 
